@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://sushi-restaurant-vm.netlify.app/" target="_blank">
-      <img src="docs/sushi-restaurant_ui_img" alt="Aperçu du projet">
+      <img src="docs/sushi-restaurant_ui_img.png" alt="Aperçu du projet">
     </a>
     </br>
     </br>
